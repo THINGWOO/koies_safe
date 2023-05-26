@@ -1,0 +1,9 @@
+.table-container {
+    width: 120%; /* adjust this value as per your needs */
+    height: 500px; /* or any height */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    overflow-y: auto; /* Enable vertical scroll */
+    margin-left: auto; /* Automatically calculate left margin */
+    margin-right: auto; /* Automatically calculate right margin */
+  }
+  
